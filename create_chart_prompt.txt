@@ -1,0 +1,3 @@
+My data set is a spreadsheet that uses the following columns: Title, Published, Genre, First published, and Approximate sales in millions. Give me options for a chart that shows the correlation between genre and sales. Explain how genre and sales are correlated according to the information.
+
+My data set is a spreadsheet that uses the following columns: Title, Published, Genre, First published and Approximate Sales in millions. I am interested in showing the relationship between genre and sales. Suggest modifications to make this chart work better with my specific data using Google Sheets.

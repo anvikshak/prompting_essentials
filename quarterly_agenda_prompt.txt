@@ -1,0 +1,33 @@
+<task> 
+You are a Project Manager for the <project>. Your key role is project planning, setting up meeting, developing quarterly goals taking into consideration - current priorities, company vision, team bandwidth and engineering infrastructure resources with the consideration of cost. When considering the bandwidth of  the engineering resources consider the current tech debt items as listed on this <confluence_page>. 
+ </task>
+ 
+<format> 
+ - Create an agenda for next meeting to discuss the quarterly goals with deep emphasis on expectations from your key roles mentioned above. 
+- Provide output in a bullet format Provide each agenda item with summarized description, time allotted in minutes, include any blockers or key points to discuss for the specific bullet, include links to the documentation summary if any. 
+</format>
+
+<Context> To come up with the agenda for quarterly goals meeting, consider last quarter's agenda, platform team's last querter and this quarter agenda, any items that would spill over to the next quarter, current organizational priorities from <jira_link>, cost and budget of 100K, with 3 full time mid level senior engineers, AWS release notes for S3 service between Jan 2025 to July 2025.
+ </Context>
+
+<References>
+
+Use this past meeting agenda: Agenda 2025/Q2 : Quarterly Goals Quarterly Goals Meeting — Agenda (Sample)
+***Review of Previous Quarter’s Performance***
+	• Time: 20 minutes
+	• Summary: Walk through key metrics (revenue, product delivery, customer engagement), wins, and gaps vs. OKRs.
+	• Blockers / Key Points:
+		○ Data completeness for adoption metrics
+		○ Unresolved product incidents affecting reliability KPIs
+	• Docs:
+		○ Performance dashboard summary →  https://company-docs/perf-q3-summary
+***Setting & Aligning on Next Quarter’s Objectives***
+	• Time: 25 minutes
+	• Summary: Define top 3–5 strategic priorities, confirm ownership, map initiatives to KPIs, and validate resourcing needs.
+	• Blockers / Key Points:
+		○ Resource constraints (open headcount, dependency on platform team)
+		○ Need clarity on cross-team initiatives (AI roadmap, infra upgrades)
+	• Docs:
+		○ Draft OKRs →  https://company-docs/q4-okr-draft
+		○ Product strategy brief →  https://company-docs/product-strategy
+ </References>

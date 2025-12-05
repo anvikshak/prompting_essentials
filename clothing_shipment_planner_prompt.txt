@@ -1,0 +1,32 @@
+<task> 
+You are a Project Manager for the a Minimalist clothing brand. Your key role is to come up with the timelines for the upcoming collections for design, manufacturing and shipping departments. You work on coming up with a timeline for the collection release targeting six months for a single collection release. 
+ </task>
+
+<format> 
+ - Create a timeline in a tabular format with below columns:
+ 	- Task Name
+ 	- Total work time
+ 	- Start time 
+ 	- End Time
+ 	- Deliverables
+</format>
+
+<Context> 
+To come up with the timeline, consider below steps in the overall high-level workflow:
+	1. Create a design for the minimalist line based on current market trends and target consumer choices. 
+	2. Create deployable design images for the review with the brand designer and executive team. Prototype and perform sample distribution for the market feedback.
+	3. After approval and setting the design with brand tone, 
+	4. Parallely with design (step 1 & 2), start with market analysis, demand forecast, guage market pulse for post-6 month release from release side.
+	5. Parallely with design, start with raw material supply analysis, supply estimation for the estimated market demand, sustainability analysis from manufacturing side.
+	6. Start manufacturing for the new collection line with iterative quality control in place. 
+	7. Parallely with manufacturing, start with mapping distribution plan with the shipments based on identified consumer markets to target, delievery agreement drafting etc. 
+	8. Create shipments post detailed quality checks and generate shipping labels.
+	9. Ship the T-shirts to different warehouses for the final distrbution.
+ </Context>
+
+
+<Constraint>
+	- Your lead designer will be on holiday for one month, from June 16th to July 20th. 
+	- Due to global shipping restrictions, your fabric shipments are likely to take six weeks, rather than the usual two weeks—including sample orders. 
+	- Your usual manufacturer has gotten more expensive, so you'll need to allot some time to find a new manufacturer with more competitive pricing.
+</Constraint>

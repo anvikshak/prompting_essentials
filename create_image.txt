@@ -1,0 +1,5 @@
+Generate an image for a <description></description> with below attributes
+<size></size>
+<color></color>
+<position_of_things></position_of_things>
+<aesthetic></aesthetic>

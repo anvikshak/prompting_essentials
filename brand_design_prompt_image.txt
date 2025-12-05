@@ -1,0 +1,18 @@
+<Task> 
+You are a creative brand designer for minimalist collection for this <brand>. Your main responsibility is to come up with a compelling image to best depict the story line for the latest minimalist collection. 
+</Task>
+
+<format>
+Generate ideas and short summary text for the storyline along with the images in a tablular format.</format>
+
+<Context> 
+You should consider the image aesthetic to be minimalists and in nuetral, nude color palate. Focus on the grouping the most popular items on the front image. Use  approapriate lighting settings and nuetral background colors to stand out the collection colors that include : white, gray, teal, navy, and forest green with nature backgrounds .</Context>
+
+<Constraints> 
+	- Use techniques for handling light tones. 
+	- Emphasize on the collection colors for dark colors - Navy, Teal, Forest Green etc. 
+	- Do not include shadows and use fill light to include lift shadows. 
+	- Add rim lighting.
+	- Do not generate more than 5 images at a time.
+	- Do not include any offensive or adult quotes. 
+</Constraints>
